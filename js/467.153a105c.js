@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_portfolio"]=self["webpackChunkvue_portfolio"]||[]).push([[467],{6467:function(u,e,t){t.r(e),t.d(e,{default:function(){return f}});var n=function(){var u=this,e=u._self._c;return e("div",[u._v(" this is my Project Page ")])},l=[],r={},o=r,i=t(1001),s=(0,i.Z)(o,n,l,!1,null,null,null),f=s.exports}}]);
+//# sourceMappingURL=467.153a105c.js.map
