@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue_portfolio"]=self["webpackChunkvue_portfolio"]||[]).push([[719],{6719:function(u,n,e){e.r(n),e.d(n,{default:function(){return c}});var t=function(){var u=this,n=u._self._c;return n("div",[u._v(" Education Page ")])},l=[],o={},r=o,f=e(1001),i=(0,f.Z)(r,t,l,!1,null,null,null),c=i.exports}}]);
-//# sourceMappingURL=719.6071b77e.js.map
